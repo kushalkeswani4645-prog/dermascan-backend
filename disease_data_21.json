@@ -1,0 +1,191 @@
+{
+  "Acne": {
+    "full_name": "Acne",
+    "category": "Inflammatory condition",
+    "severity": "low",
+    "description": "A common skin condition caused by clogged hair follicles, leading to pimples, blackheads, and whiteheads, most often on the face, chest, and back.",
+    "common_symptoms": ["Whiteheads or blackheads", "Small red, tender bumps", "Pus-filled pimples", "Oily skin", "Occasional scarring in severe cases"],
+    "recommended_action": "Mild cases can often be managed at home. See a dermatologist if it's severe, painful, or leaving scars.",
+    "general_treatment_info": ["Gentle cleansing twice daily", "Over-the-counter benzoyl peroxide or salicylic acid", "Topical retinoids (prescribed)", "Oral medications for severe/cystic acne"]
+  },
+  "Actinic_Keratosis": {
+    "full_name": "Actinic Keratosis",
+    "category": "Pre-cancerous condition",
+    "severity": "medium",
+    "description": "A rough, scaly patch on sun-exposed skin caused by years of UV exposure. Considered precancerous since a small percentage can progress to skin cancer if untreated.",
+    "common_symptoms": ["Rough, dry, scaly patch", "Pink, red, or brown coloring", "Usually under 2cm wide", "Found on face, ears, scalp, hands"],
+    "recommended_action": "See a dermatologist for evaluation. Not an emergency, but shouldn't be ignored.",
+    "general_treatment_info": ["Cryotherapy (freezing)", "Topical medications (5-fluorouracil, imiquimod)", "Photodynamic therapy", "Regular sun protection to prevent new lesions"]
+  },
+  "Benign_tumors": {
+    "full_name": "Benign Skin Tumors",
+    "category": "Benign growth",
+    "severity": "low",
+    "description": "Non-cancerous skin growths such as lipomas, fibromas, and similar lumps. Generally harmless but sometimes removed for comfort or cosmetic reasons.",
+    "common_symptoms": ["Soft or firm lump under the skin", "Slow growing", "Usually painless", "Movable under the skin"],
+    "recommended_action": "Usually no action needed. See a doctor if it grows quickly, becomes painful, or changes in appearance.",
+    "general_treatment_info": ["No treatment necessary in most cases", "Surgical removal if bothersome", "Monitoring for changes over time"]
+  },
+  "Bullous": {
+    "full_name": "Bullous Disorders",
+    "category": "Autoimmune/blistering condition",
+    "severity": "high",
+    "description": "A group of conditions causing large, fluid-filled blisters on the skin, often related to autoimmune disease or infection.",
+    "common_symptoms": ["Large, fluid-filled blisters", "Itching or burning before blisters appear", "Raw skin after blisters break", "Can affect mouth and other mucous membranes"],
+    "recommended_action": "See a doctor promptly — bullous disorders often need proper diagnosis and monitoring.",
+    "general_treatment_info": ["Topical or oral corticosteroids (prescribed)", "Immune-suppressing medications for autoimmune cases", "Wound care for broken blisters", "Treating any underlying infection"]
+  },
+  "Candidiasis": {
+    "full_name": "Candidiasis",
+    "category": "Fungal infection",
+    "severity": "low",
+    "description": "A fungal infection caused by Candida yeast, leading to red, itchy, inflamed skin, most common in warm, moist areas of the body.",
+    "common_symptoms": ["Red, itchy rash", "Sometimes with small pustules at the edges", "Common in skin folds", "Soreness or burning"],
+    "recommended_action": "Often manageable with antifungal treatment. See a doctor if it doesn't improve or keeps recurring.",
+    "general_treatment_info": ["Topical antifungal creams", "Keeping the area clean and dry", "Oral antifungal medication for persistent cases", "Managing underlying risk factors (e.g. diabetes)"]
+  },
+  "DrugEruption": {
+    "full_name": "Drug Eruption",
+    "category": "Allergic/adverse reaction",
+    "severity": "medium",
+    "description": "A skin rash that occurs as a reaction to a medication, ranging from mild to potentially serious.",
+    "common_symptoms": ["Widespread red rash", "Itching", "Sometimes hives or blistering", "Onset after starting a new medication"],
+    "recommended_action": "See a doctor, especially if you've recently started a new medication. Seek urgent care if you have fever, blistering, or difficulty breathing.",
+    "general_treatment_info": ["Stopping the triggering medication (under medical guidance)", "Antihistamines for itching", "Topical or oral corticosteroids", "Close monitoring for severe reactions"]
+  },
+  "Eczema": {
+    "full_name": "Eczema (Atopic Dermatitis)",
+    "category": "Chronic inflammatory condition",
+    "severity": "low",
+    "description": "A common condition causing dry, itchy, inflamed patches of skin, often linked to allergies or a sensitive skin barrier.",
+    "common_symptoms": ["Dry, scaly patches", "Intense itching", "Red or brownish-gray patches", "Small raised bumps that may leak fluid"],
+    "recommended_action": "Usually manageable at home. See a dermatologist if it persists beyond two weeks or worsens.",
+    "general_treatment_info": ["Fragrance-free moisturizers applied regularly", "Topical corticosteroids for flare-ups", "Avoiding known triggers", "Antihistamines for itch relief"]
+  },
+  "Infestations_Bites": {
+    "full_name": "Infestations and Bites",
+    "category": "Parasitic/insect reaction",
+    "severity": "low",
+    "description": "Skin reactions caused by insect bites or infestations such as scabies or lice, typically causing itching and irritation.",
+    "common_symptoms": ["Itchy red bumps", "Sometimes in a line or cluster pattern", "Visible bite marks", "Intense itching, often worse at night for scabies"],
+    "recommended_action": "Mild bites usually resolve on their own. See a doctor for suspected scabies or widespread infestation, since it can require prescription treatment.",
+    "general_treatment_info": ["Anti-itch creams or antihistamines", "Prescription scabies treatment if confirmed", "Washing bedding/clothing to prevent spread", "Avoiding scratching to prevent infection"]
+  },
+  "Lichen": {
+    "full_name": "Lichen Planus",
+    "category": "Inflammatory condition",
+    "severity": "low",
+    "description": "An inflammatory condition causing itchy, flat-topped purplish bumps, thought to be related to immune system activity.",
+    "common_symptoms": ["Purplish, flat-topped bumps", "Itching", "Can appear on skin, mouth, or nails", "Lace-like white patches in the mouth (if oral)"],
+    "recommended_action": "See a dermatologist for confirmation and management, especially if it's widespread or affecting the mouth.",
+    "general_treatment_info": ["Topical corticosteroids", "Antihistamines for itching", "Oral medications for widespread cases", "Regular monitoring since it can be chronic"]
+  },
+  "Lupus": {
+    "full_name": "Lupus (Cutaneous)",
+    "category": "Autoimmune condition",
+    "severity": "high",
+    "description": "An autoimmune condition that can cause distinctive skin rashes, often including a butterfly-shaped rash across the cheeks and nose.",
+    "common_symptoms": ["Red, scaly rash, often on the face", "Sensitivity to sunlight", "Rash may worsen with sun exposure", "Possible hair thinning"],
+    "recommended_action": "See a doctor for proper evaluation — cutaneous lupus often requires coordinated care with a rheumatologist or dermatologist.",
+    "general_treatment_info": ["Sun protection (a key part of management)", "Topical or oral corticosteroids", "Antimalarial medications (e.g. hydroxychloroquine, prescribed)", "Regular monitoring for systemic involvement"]
+  },
+  "Moles": {
+    "full_name": "Moles (Melanocytic Nevi)",
+    "category": "Benign growth",
+    "severity": "low",
+    "description": "Common, typically harmless skin growths formed by clusters of pigment cells. Most adults have several.",
+    "common_symptoms": ["Round or oval shape", "Even color: tan, brown, or black", "Smooth, defined border", "Usually smaller than 6mm and stable over time"],
+    "recommended_action": "No action typically needed. Use the ABCDE rule (Asymmetry, Border, Color, Diameter, Evolving) to monitor and see a dermatologist if any of these change.",
+    "general_treatment_info": ["No treatment necessary for typical moles", "Removal possible for cosmetic reasons", "Prompt evaluation for any mole that changes"]
+  },
+  "Psoriasis": {
+    "full_name": "Psoriasis",
+    "category": "Chronic autoimmune condition",
+    "severity": "medium",
+    "description": "A chronic condition causing the rapid buildup of skin cells, resulting in thick, scaly patches, often on elbows, knees, and scalp.",
+    "common_symptoms": ["Thick, red patches with silvery scales", "Itching or soreness", "Dry, cracked skin that may bleed", "Nail changes in some cases"],
+    "recommended_action": "See a dermatologist for diagnosis and a management plan, since psoriasis is a long-term condition.",
+    "general_treatment_info": ["Topical corticosteroids and vitamin D analogues", "Moisturizing regularly", "Phototherapy for moderate cases", "Systemic medications for severe cases"]
+  },
+  "Rosacea": {
+    "full_name": "Rosacea",
+    "category": "Chronic inflammatory condition",
+    "severity": "low",
+    "description": "A chronic condition causing facial redness and visible blood vessels, sometimes with small red bumps resembling acne.",
+    "common_symptoms": ["Facial redness, especially cheeks/nose", "Visible small blood vessels", "Occasional bumps or pimples", "Eye irritation in some cases"],
+    "recommended_action": "See a dermatologist for a management plan, especially if it's affecting your confidence or comfort.",
+    "general_treatment_info": ["Identifying and avoiding personal triggers (sun, spicy food, alcohol)", "Topical medications (prescribed)", "Gentle, fragrance-free skincare", "Laser treatment for visible blood vessels in some cases"]
+  },
+  "Seborrh_Keratoses": {
+    "full_name": "Seborrheic Keratoses",
+    "category": "Benign growth",
+    "severity": "low",
+    "description": "Common, harmless skin growths that often appear with age, looking waxy or 'stuck-on'. Sometimes mistaken for warts or cancerous lesions.",
+    "common_symptoms": ["Waxy or 'stuck-on' appearance", "Light brown to black color", "Round or oval shape", "Slightly raised, textured surface"],
+    "recommended_action": "Generally no treatment needed. Have a dermatologist confirm it isn't something else if it changes, bleeds, or looks unusual.",
+    "general_treatment_info": ["No treatment necessary if confirmed benign", "Cryotherapy or removal if irritated or for cosmetic reasons", "Monitoring for changes"]
+  },
+  "SkinCancer": {
+    "full_name": "Skin Cancer",
+    "category": "Malignant condition",
+    "severity": "critical",
+    "description": "A serious condition where skin cells grow abnormally and uncontrollably. Includes several types, some more aggressive than others. Early detection significantly improves outcomes.",
+    "common_symptoms": ["A new or changing mole or growth", "Asymmetrical shape or irregular border", "Multiple colors within one spot", "A sore that doesn't heal", "Diameter larger than 6mm"],
+    "recommended_action": "Seek an in-person dermatologist evaluation as soon as possible. This result should always be verified by a medical professional and is not a diagnosis.",
+    "general_treatment_info": ["Surgical excision", "Mohs micrographic surgery for certain areas/types", "Radiation or topical therapy in specific cases", "Immunotherapy or targeted therapy for advanced cases", "Regular full-body skin checks after treatment"]
+  },
+  "Sun_Sunlight_Damage": {
+    "full_name": "Sun/Sunlight Damage",
+    "category": "UV-related skin change",
+    "severity": "low",
+    "description": "Changes to the skin from cumulative sun exposure, including discoloration, texture changes, and premature aging. Can increase risk of precancerous and cancerous changes over time.",
+    "common_symptoms": ["Uneven pigmentation or dark spots", "Rough or leathery texture", "Fine lines and wrinkles", "Visible small blood vessels"],
+    "recommended_action": "Not urgent, but a good reason to see a dermatologist for a baseline skin check, since sun damage raises long-term skin cancer risk.",
+    "general_treatment_info": ["Daily sunscreen use going forward", "Topical retinoids for texture/pigmentation", "Professional treatments (chemical peels, laser) for cosmetic improvement", "Regular skin checks given increased risk"]
+  },
+  "Tinea": {
+    "full_name": "Tinea (Ringworm)",
+    "category": "Fungal infection",
+    "severity": "low",
+    "description": "A common fungal skin infection causing a ring-shaped, itchy rash. Despite the name, it's not caused by a worm.",
+    "common_symptoms": ["Ring-shaped red, scaly patch", "Itching", "Clearer skin in the center of the ring", "Can spread with contact"],
+    "recommended_action": "Usually treatable with antifungal medication. See a doctor if it doesn't improve or covers a large area.",
+    "general_treatment_info": ["Topical antifungal creams", "Keeping the area clean and dry", "Oral antifungal medication for widespread or stubborn cases", "Avoiding sharing towels/clothing to prevent spread"]
+  },
+  "Vascular_Tumors": {
+    "full_name": "Vascular Tumors",
+    "category": "Benign growth",
+    "severity": "low",
+    "description": "Growths formed by abnormal blood vessels, such as hemangiomas, resulting in red, purple, or blue marks on the skin.",
+    "common_symptoms": ["Red, purple, or blue coloring", "Flat or slightly raised", "May blanch (lighten) briefly when pressed", "Usually painless"],
+    "recommended_action": "Usually harmless and often cosmetic. See a doctor if it bleeds easily, grows rapidly, or is painful.",
+    "general_treatment_info": ["Often no treatment required", "Laser therapy for cosmetic reduction", "Monitoring for changes in size or color"]
+  },
+  "Vasculitis": {
+    "full_name": "Vasculitis",
+    "category": "Inflammatory condition",
+    "severity": "high",
+    "description": "Inflammation of blood vessels that can cause visible skin changes, including rashes, spots, or ulcers, sometimes linked to an underlying autoimmune or systemic condition.",
+    "common_symptoms": ["Small red or purple spots (often on legs)", "Rash that doesn't fade when pressed", "Possible ulcers in severe cases", "Sometimes accompanied by fatigue or joint pain"],
+    "recommended_action": "See a doctor promptly for evaluation, as vasculitis can sometimes indicate a broader underlying condition.",
+    "general_treatment_info": ["Treating any underlying cause", "Corticosteroids to reduce inflammation (prescribed)", "Immune-suppressing medication in more serious cases", "Regular monitoring by a specialist"]
+  },
+  "Vitiligo": {
+    "full_name": "Vitiligo",
+    "category": "Pigmentation disorder",
+    "severity": "low",
+    "description": "A condition causing patches of skin to lose their pigment, resulting in smooth white patches, due to the loss of pigment-producing cells.",
+    "common_symptoms": ["White or light patches of skin", "Can appear anywhere on the body", "Patches may grow or spread over time", "Premature whitening of hair in affected areas"],
+    "recommended_action": "Not medically urgent, but see a dermatologist for confirmation and to discuss options if it's affecting your confidence.",
+    "general_treatment_info": ["Topical corticosteroids or other prescribed creams", "Phototherapy in some cases", "Sun protection for affected (unpigmented) skin", "Cosmetic camouflage options if desired"]
+  },
+  "Warts": {
+    "full_name": "Warts",
+    "category": "Viral infection",
+    "severity": "low",
+    "description": "Small, rough skin growths caused by the human papillomavirus (HPV), commonly appearing on hands or feet.",
+    "common_symptoms": ["Small, rough, raised bump", "May have tiny black dots (clotted blood vessels)", "Can be itchy or slightly tender", "May spread with contact or scratching"],
+    "recommended_action": "Many warts resolve on their own over time. See a doctor if it's painful, spreading, or doesn't improve with at-home treatment.",
+    "general_treatment_info": ["Over-the-counter salicylic acid treatments", "Cryotherapy (freezing) at a clinic", "Avoiding picking or scratching to prevent spread", "Prescription treatments for stubborn warts"]
+  }
+}
